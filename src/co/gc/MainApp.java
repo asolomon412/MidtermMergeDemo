@@ -13,6 +13,8 @@ public class MainApp {
 		
 
 		System.out.println("Happy Halloween!");
+		
+		System.out.println("help me -- vim please!");
 
 	}
 
